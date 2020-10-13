@@ -6,11 +6,11 @@ The accuracy of the model achieved was 98.58%
 
 After applying He initialization, the accuracy of the model achieved was 99.13%
 
-## Nadam Otimizer
+## Nadam Optimizer
 
 After using Nadam Optimizer, the accuracy of the model achieved was 98.9%
 
-## Using both He Initialization and Nadam Otimizer
+## Using both He Initialization and Nadam Optimizer
 
 The accuracy of the model achieved was 99.03%
 
